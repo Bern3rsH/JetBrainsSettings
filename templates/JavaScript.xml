@@ -1,0 +1,8 @@
+<templateSet group="JavaScript">
+  <template name="cl" value="console.log($ITEM$);" description="console" toReformat="true" toShortenFQNames="true">
+    <variable name="ITEM" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>

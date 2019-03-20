@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="color-variables" type="Less" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+      <mapping pattern="friends-2.wpy" type="PLAIN_TEXT" />
+      <mapping pattern="sns-friends.wpy" type="PLAIN_TEXT" />
+      <mapping pattern="friends__1.wpy" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="rightPackageSNSRule.wpy" type="PLAIN_TEXT" />
+      <mapping pattern="idnex" type="PLAIN_TEXT" />
+      <mapping pattern="img" type="PLAIN_TEXT" />
+      <mapping pattern="new-index_v2" type="PLAIN_TEXT" />
+      <mapping pattern="red-black-hyrz.less" type="PLAIN_TEXT" />
+      <mapping ext="md" type="PLAIN_TEXT" />
+      <mapping ext="wxss" type="PLAIN_TEXT" />
+      <mapping ext="wpy" type="Vue.js" />
+      <mapping ext="wxml" type="XHTML" />
+      <mapping ext="svgz" type="XML" />
+      <removed_mapping pattern=".git" approved="true" type="ActionScript" />
+      <removed_mapping ext="md" approved="true" type="Markdown" />
+    </extensionMap>
+  </component>
+</application>
