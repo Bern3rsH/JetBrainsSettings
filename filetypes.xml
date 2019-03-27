@@ -4,22 +4,22 @@
     <extensionMap>
       <mapping pattern="color-variables" type="Less" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
-      <mapping pattern="friends-2.wpy" type="PLAIN_TEXT" />
-      <mapping pattern="sns-friends.wpy" type="PLAIN_TEXT" />
-      <mapping pattern="friends__1.wpy" type="PLAIN_TEXT" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="rightPackageSNSRule.wpy" type="PLAIN_TEXT" />
-      <mapping pattern="idnex" type="PLAIN_TEXT" />
-      <mapping pattern="img" type="PLAIN_TEXT" />
-      <mapping pattern="new-index_v2" type="PLAIN_TEXT" />
-      <mapping pattern="red-black-hyrz.less" type="PLAIN_TEXT" />
       <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="wpy" type="Vue.js" />
       <mapping ext="wxml" type="XHTML" />
       <mapping ext="svgz" type="XML" />
+      <removed_mapping pattern="idnex" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="1" approved="true" type="PLAIN_TEXT" />
       <removed_mapping pattern=".git" approved="true" type="ActionScript" />
+      <removed_mapping pattern="new-index_v2" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="md" approved="true" type="Markdown" />
+      <removed_mapping pattern="img" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="sns-friends.wpy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="red-black-hyrz.less" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="rightPackageSNSRule.wpy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="friends-2.wpy" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping pattern="friends__1.wpy" approved="true" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
